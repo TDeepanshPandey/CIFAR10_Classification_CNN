@@ -8,3 +8,4 @@ We have developed a Logistic Regression Classifier and used grid search for best
 
 ![alt_text](https://github.com/TDeepanshPandey/CIFAR10_Classification_CNN/blob/master/output.png)
 
+.
